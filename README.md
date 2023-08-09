@@ -6,6 +6,8 @@
 
 This repository is part of the professional certification Machine Learning Engineer (Concepteur Développeur en Science des données) and represents Bloc 3 of the certification titled: "Machine Learning". This bloc contains three projects, each focusing on a different aspect of machine learning, including both supervised and unsupervised learning techniques.
 
+The link to the Vidyard video is [here](https://share.vidyard.com/watch/DrYXsyHoZGP5d8b7esmj73?)
+
 ## Projects Included
 
 ### 1. Project 03 - 1: Walmart Sales
